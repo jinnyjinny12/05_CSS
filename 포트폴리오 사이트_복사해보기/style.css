@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'HSSanTokki20-Regular';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405@1.0/HSSanTokki20-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+   .ff1 div {
+    font-family: 'HSSanTokki20-Regular';
+   }
+
+   .Header_style {display: flex; justify-content: space-around; width: 500px;}
+
+
+   .Header_background{
+        background-color: #E1DFA3;
+        padding: 20px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    }
+ 
+
+a{
+    color: red ;
+}
